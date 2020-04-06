@@ -21,7 +21,7 @@ AES_KEY и TOKEN берем в
 
 
 AES_KEY = 'e62efa9ff5ebbc08701f636fcb5842d8760e28cc51e991f7ca45c574ec0ab15c' # Юзайте пока работает :)
-TOKEN = 'gWFDtf18f16d9c97c01a58948fee3c6201094e93d6d3f102177c5778052'
+TOKEN = 'hjiZQ512eb3247fcf22952f1d9b2af80cf0459450e54eb422dd20798c04'
 
 key = b'2Wq7)qkX~cp7)H|n_tc&o+:G_USN3/-uIi~>M+c ;Oq]E{t9)RC_5|lhAA_Qq%_4'
 
